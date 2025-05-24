@@ -11,6 +11,6 @@ app/accounts
 app/config
 database.db
 config/proxy_list.js
-src/*
-/index.js
-/deploy.js
+# src/*
+# /index.js
+# /deploy.js
